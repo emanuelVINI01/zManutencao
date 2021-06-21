@@ -1,0 +1,7 @@
+main: com.tkcr.bukkit.sv.Main
+version: 1.1
+name: zManutencao
+author: emanuelVINI01
+commands:
+  manu:
+    aliases: [manutencao,manuten]

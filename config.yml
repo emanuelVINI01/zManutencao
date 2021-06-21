@@ -1,0 +1,6 @@
+MySQL:
+  Ativar: false
+  User: 'root'
+  Password: 'emanuel12121'
+  Host: 'localhost'
+  Database: 'booster'
